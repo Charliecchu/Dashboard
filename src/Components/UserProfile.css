@@ -1,0 +1,15 @@
+.user-profile {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .user-profile h2 {
+    margin-top: 0;
+  }
+  
+  .user-profile p {
+    margin: 5px 0;
+  }

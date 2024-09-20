@@ -1,0 +1,24 @@
+.user-activities {
+    margin: 20px;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #fff;
+  }
+  
+  .user-activities h2 {
+    margin-top: 0;
+  }
+  
+  .user-activities ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .user-activities li {
+    margin: 10px 0;
+  }
+  
+  .user-activities li h3 {
+    margin: 0;
+  }
